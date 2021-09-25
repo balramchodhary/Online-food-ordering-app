@@ -1,0 +1,22 @@
+ #div1{
+     background-image: url('./food.jpg');
+     height: auto;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     align-items: center;
+     flex-wrap: wrap;
+ }
+ #div2{
+    width: 15rem;
+    height: auto;
+
+}
+#div3{
+    width: 20rem;
+    height: auto;
+}
+img{
+    width: 200px;
+    height: auto;
+}
